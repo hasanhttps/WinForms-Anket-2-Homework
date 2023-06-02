@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinForms Anket 2 Homework/1.0.0": {
+        "runtime": {
+          "WinForms Anket 2 Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForms Anket 2 Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
